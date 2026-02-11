@@ -1,0 +1,8 @@
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\gabma\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 9D:EF:C4:56:34:E2:73:C2:E9:21:EA:15:2D:8B:D6:7A
+SHA1: 26:89:FF:CC:7D:AA:0D:BE:0E:7A:F1:76:F9:C7:91:9B:66:DD:41:E5
+SHA-256: 24:C6:D4:75:CB:B0:D2:81:2C:03:25:8E:B5:70:DD:95:C1:BC:92:AA:41:B0:CF:B4:8F:EB:52:E7:BB:4F:7C:47
+Valid until: Saturday, 18 December 2055

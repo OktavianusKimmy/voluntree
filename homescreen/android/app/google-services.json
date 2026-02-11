@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624248631710",
+    "project_id": "voluntree-1675c",
+    "storage_bucket": "voluntree-1675c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624248631710:android:7e74e3f7a7a88802f8a68f",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdsdc6-cJABa0J1OUeFmtHG2AjS62MXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
